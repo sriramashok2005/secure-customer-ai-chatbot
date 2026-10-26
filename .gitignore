@@ -1,0 +1,8 @@
+﻿.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.dev_otp.txt
+
+app.zip
